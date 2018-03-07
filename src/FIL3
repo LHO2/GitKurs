@@ -1,1 +1,3 @@
 Select * from phpbas.HP015T
+Where be-succover = 'J'
+;
